@@ -1,0 +1,21 @@
+Bugers: 50
+Cashier 1 Queue:
+Kamal Perera - Burgers: 9
+Saman Kumara - Burgers: 9
+
+Cashier 2 Queue:
+Ajith Jumara - Burgers: 9
+saman perera - Burgers: 9
+sss fdff - Burgers: 9
+
+Cashier 3 Queue:
+Nimal Silva - Burgers: 9
+Amal Perera - Burgers: 9
+Nimal Silva - Burgers: 9
+Amal Perera - Burgers: 9
+saman perera - Burgers: 9
+
+Waiting Queue:
+Sandun perera - Burgers: 9
+Amila perera - Burgers: 9
+
